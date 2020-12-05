@@ -9,3 +9,6 @@
 
 [linkedin]: https://www.linkedin.com/in/shams-dhar-55862767/
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/313c33gasi422fkvbtji7de4jnkq)
