@@ -7,8 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-ibgjwh2o9.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/313c33gasi422fkvbtji7de4jnkq)
-</br>
+[![Spotify](https://shams33.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Connect with me:
 
