@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Cyber Security 
 - 🌱 I’m currently learning Web Hacking and System Security 
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Spotify Playing 🎧
 
