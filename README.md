@@ -1,4 +1,4 @@
-### स्वागत हे 👋
+### स्वागत हे 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
 
@@ -12,7 +12,7 @@
 
 <p  align="center"><img height="500" src = "https://github.com/shams33/shams33/blob/main/Vanilla-33.3s-276px.gif"></p>
 
-# Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
 
 
 
