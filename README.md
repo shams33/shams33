@@ -7,7 +7,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.shams33.vercel.app/api/spotify-playing)](https://open.spotify.com/user/shams33)
+[![Spotify](https://novatorem.shams33.vercel.app/api/spotify)](https://open.spotify.com/user/shams33)
 
 ### Connect with me:
 
