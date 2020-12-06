@@ -8,7 +8,7 @@
 
 
 
-<p  align="full"><img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Spotify Playing 🎧
 
