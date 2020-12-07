@@ -17,7 +17,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/shams33?tab=repositories&q=&type=&language=python)
 [![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/shams33?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/shams33?tab=repositories&q=&type=&language=c
+[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/shams33?tab=repositories&q=&type=&language=c)
 
 
 
