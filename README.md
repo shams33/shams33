@@ -50,5 +50,6 @@
 
 <p  align="center"><img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="Coder GIF" width="300" height="300"> 
   
+  
 [linkedin]: https://www.linkedin.com/in/shams-dhar-55862767/
 [twitter]: https://twitter.com/ShamsMJ
