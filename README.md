@@ -52,7 +52,7 @@
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shams33/count.svg" />
-</p>
+
 [linkedin]: https://www.linkedin.com/in/shams-dhar-55862767/
 [twitter]: https://twitter.com/ShamsMJ
 
