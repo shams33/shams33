@@ -2,7 +2,9 @@
 
 <p  align="center"><img height="150" src = "https://github.com/shams33/shams33/blob/main/Vanilla-33.3s-276px.gif"></p>
 
-- 🔭 I’m currently working on Cyber Security 
+- 🔭 I’m currently learning about life
+- Python,Java,Guitar,Travel 
+- Cyber Security
 - 🌱 I’m currently learning Web Hacking and System Security 
 
 
